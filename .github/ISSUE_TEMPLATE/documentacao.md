@@ -16,7 +16,7 @@ README / Arquitetura / Deploy / API / Segurança / Operação
 
 - [ ] 
 - [ ] 
-- [ [ ] 
+- [ ] 
 
 ## Critérios de Aceite
 
